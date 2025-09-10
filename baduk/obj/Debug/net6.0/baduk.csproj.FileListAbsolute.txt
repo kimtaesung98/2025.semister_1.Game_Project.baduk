@@ -1,0 +1,15 @@
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\bin\Debug\net6.0\baduk.exe
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\bin\Debug\net6.0\baduk.deps.json
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\bin\Debug\net6.0\baduk.runtimeconfig.json
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\bin\Debug\net6.0\baduk.dll
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\bin\Debug\net6.0\baduk.pdb
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\baduk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\baduk.AssemblyInfoInputs.cache
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\baduk.AssemblyInfo.cs
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\baduk.csproj.CoreCompileInputs.cache
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\baduk.sourcelink.json
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\baduk.dll
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\refint\baduk.dll
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\baduk.pdb
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\baduk.genruntimeconfig.cache
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\baduk\obj\Debug\net6.0\ref\baduk.dll

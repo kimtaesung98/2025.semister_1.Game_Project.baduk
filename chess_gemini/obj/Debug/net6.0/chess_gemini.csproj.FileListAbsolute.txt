@@ -1,0 +1,15 @@
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\bin\Debug\net6.0\chess_gemini.exe
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\bin\Debug\net6.0\chess_gemini.deps.json
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\bin\Debug\net6.0\chess_gemini.runtimeconfig.json
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\bin\Debug\net6.0\chess_gemini.dll
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\bin\Debug\net6.0\chess_gemini.pdb
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\chess_gemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\chess_gemini.AssemblyInfoInputs.cache
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\chess_gemini.AssemblyInfo.cs
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\chess_gemini.csproj.CoreCompileInputs.cache
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\chess_gemini.sourcelink.json
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\chess_gemini.dll
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\refint\chess_gemini.dll
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\chess_gemini.pdb
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\chess_gemini.genruntimeconfig.cache
+C:\Users\kim25\Desktop\source\repos\2025\university-projects\semester_1\subject_game_project\chess_gemini\obj\Debug\net6.0\ref\chess_gemini.dll
