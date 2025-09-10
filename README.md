@@ -1,2 +1,0 @@
-# baduk
-game project baduk
